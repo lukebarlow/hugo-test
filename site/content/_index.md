@@ -1,5 +1,12 @@
 ---
 title: Great coffee with a conscience
+live_entries:
+  - date: 27.07.19
+    title: event 1
+  - date: 15.08.19
+    title: event 2
+  - date: 15.11.19
+    title: event 3
 sound_entries:
   - audio: >-
       https://res.cloudinary.com/ekuwol/video/upload/v1564245652/third-body/sound/17_Cardboard_w6wuhn.mp3
