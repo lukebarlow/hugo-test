@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a conscience
+title: ABNORM
 live_entries:
   - date: 27.07.19
     title: event 1
